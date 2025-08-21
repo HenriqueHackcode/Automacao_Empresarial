@@ -3,3 +3,5 @@
 » Bem simples porém muito funcional, na pasta data_base tem 2 arquivos existentes, total de vendas das lojas, e-mails de contato de cada gerente.
 
 » Principais frameworks usados: Pandas, Pathlib e Win32
+
+OBS: O projeto foi feito usando ide jupyter-notebook.
